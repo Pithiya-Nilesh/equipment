@@ -6,7 +6,7 @@
    "width": "Full"
   },
   {
-   "chart": "Vehicle Expenses.",
+   "chart": "Custom Vehicle Expenses 1",
    "width": "Full"
   },
   {
@@ -41,7 +41,7 @@
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
- "modified": "2022-09-15 12:47:53.616698",
+ "modified": "2022-09-15 15:04:34.228836",
  "modified_by": "Administrator",
  "module": "Equipment",
  "name": "Custom Account",
