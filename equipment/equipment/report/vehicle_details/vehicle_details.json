@@ -1,0 +1,29 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2022-09-09 18:22:12.472220",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2022-09-14 16:01:46.378827",
+ "modified_by": "Administrator",
+ "module": "Equipment",
+ "name": "Vehicle Details",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Vehicle",
+ "report_name": "Vehicle Details",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Fleet Manager"
+  },
+  {
+   "role": "Driver"
+  }
+ ]
+}
