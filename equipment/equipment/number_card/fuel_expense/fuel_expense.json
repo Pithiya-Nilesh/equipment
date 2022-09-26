@@ -1,0 +1,22 @@
+{
+ "creation": "2022-09-08 12:51:28.621558",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"filter_based_on\":\"Fiscal Year\",\"fiscal_year\":\"2022-2023\",\"from_date\":\"2021-09-15\",\"to_date\":\"2022-09-15\"}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Fuel Expense",
+ "modified": "2022-09-15 17:34:16.731665",
+ "modified_by": "Administrator",
+ "module": "Equipment",
+ "name": "Fuel Expense",
+ "owner": "Administrator",
+ "report_field": "fuel_expense",
+ "report_function": "Sum",
+ "report_name": "Vehicle Expenses",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

@@ -1,0 +1,35 @@
+{
+ "chart_name": "Project Wise Vehicle Expense",
+ "chart_type": "Report",
+ "creation": "2022-09-15 18:13:39.716667",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{\"filter_based_on\":[\"Fiscal Year\"],\"fiscal_year\":\"2022-2023\",\"from_date\":\"2021-09-21\",\"to_date\":\"2022-09-21\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2022-09-21 18:09:33.060464",
+ "modified_by": "Administrator",
+ "module": "Equipment",
+ "name": "Project Wise Vehicle Expense",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Vehicle Details",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Pie",
+ "use_report_chart": 0,
+ "x_field": "project",
+ "y_axis": [
+  {
+   "y_field": "fuel_expense"
+  },
+  {
+   "y_field": "service_expense"
+  }
+ ]
+}

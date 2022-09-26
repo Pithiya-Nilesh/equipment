@@ -18,6 +18,14 @@
    "width": "Half"
   },
   {
+   "chart": "Vehicle Fuel Expense",
+   "width": "Half"
+  },
+  {
+   "chart": "Vehicle Service Expense",
+   "width": "Half"
+  },
+  {
    "chart": "Outgoing Bills (Sales Invoice).",
    "width": "Half"
   },
@@ -34,8 +42,8 @@
    "width": "Half"
   },
   {
-   "chart": "sales",
-   "width": "Half"
+   "chart": "Project Wise Vehicle Expense",
+   "width": "Full"
   }
  ],
  "creation": "2022-09-14 15:54:27.776683",
@@ -45,7 +53,7 @@
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
- "modified": "2022-09-15 15:51:05.805709",
+ "modified": "2022-09-26 17:07:15.746939",
  "modified_by": "Administrator",
  "module": "Equipment",
  "name": "Custom Account",

@@ -1,3 +1,9 @@
+# # Copyright (c) 2022, Nilesh Pithiya and contributors
+# # For license information, please see license.txt
+#
+# # import frappe
+#
+#
 # Copyright (c) 2022, Nilesh Pithiya and contributors
 # For license information, please see license.txt
 

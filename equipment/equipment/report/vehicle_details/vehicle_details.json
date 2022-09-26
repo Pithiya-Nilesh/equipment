@@ -1,5 +1,5 @@
 {
- "add_total_row": 0,
+ "add_total_row": 1,
  "columns": [],
  "creation": "2022-09-09 18:22:12.472220",
  "disable_prepared_report": 0,
@@ -9,7 +9,7 @@
  "filters": [],
  "idx": 0,
  "is_standard": "Yes",
- "modified": "2022-09-14 16:01:46.378827",
+ "modified": "2022-09-26 16:19:19.744564",
  "modified_by": "Administrator",
  "module": "Equipment",
  "name": "Vehicle Details",

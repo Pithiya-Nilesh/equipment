@@ -1,0 +1,30 @@
+{
+ "add_total_row": 1,
+ "columns": [],
+ "creation": "2022-09-26 17:01:34.036732",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2022-09-26 17:02:39.057513",
+ "modified_by": "Administrator",
+ "module": "Equipment",
+ "name": "Project Wise Service Expense",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "query": "SELECT\n    vhcl.project, sum(service.expense_amount) as service_expense\n\tFROM\n\t\t`tabVehicle` vhcl,`tabVehicle Log` log, `tabVehicle Service` service\n\tWHERE\n\t\tvhcl.license_plate = log.license_plate\n\t\tand log.docstatus = 1\n\t\tand service.parent=log.name\n\tGROUP BY vhcl.project",
+ "ref_doctype": "Vehicle Log",
+ "report_name": "Project Wise Service Expense",
+ "report_type": "Query Report",
+ "roles": [
+  {
+   "role": "Fleet Manager"
+  },
+  {
+   "role": "Employee Self Service"
+  }
+ ]
+}
